@@ -1,13 +1,13 @@
 import React from "react";
-import Mission from "./Mission";
+import Root from "./Root";
 import "bootstrap/dist/css/bootstrap.css";
 
 export default {
-  title: "Mission"
+  title: "Root"
 };
 
-export const mission = () => {
+export const root = () => {
   return (
-    <Mission/>
+    <Root/>
   );
 };

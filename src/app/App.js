@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
 
-import NotFound from '../not_found/NotFound';
-import Root from '../../pages/root/Root'
+import NotFound from '../pages/not_found/NotFound';
+import Root from '../pages/root/Root'
 
 function App() {
   return (
