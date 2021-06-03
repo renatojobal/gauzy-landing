@@ -14,7 +14,7 @@ function NotFound() {
           <Col>
           <img
           src="https://tenor.com/view/thanos-avengers-infinity-war-sorry-gif-12454554.gif"
-          alt="perdoname niñita"
+          alt="Perdón"
         ></img>
         <center><span>No Encontrado...</span></center>
 

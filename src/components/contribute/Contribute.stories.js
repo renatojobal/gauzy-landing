@@ -6,7 +6,7 @@ export default {
   title: "Contribute"
 };
 
-export const contributeStorie = () => {
+export const contribute = () => {
   return (
     <Contribute/>
   );
